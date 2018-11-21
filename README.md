@@ -1,4 +1,4 @@
-#Mobile Bridge - A Portable Design Simulator for Ship Bridge Interfaces
+# Mobile Bridge - A Portable Design Simulator for Ship Bridge Interfaces
 
 ![Photo of Mobile Bridge set up as Ship Bridge Simulator](images/MobileBridge.jpg | width=500)
 
