@@ -1,4 +1,4 @@
-#Bill of Materials
+# Bill of Materials
 
 - 2x ELO 2244L Openframe Touchscreen
 - 1x Nuvo 3000E Industrial PC
