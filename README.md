@@ -1,6 +1,6 @@
 # Mobile Bridge - A Portable Design Simulator for Ship Bridge Interfaces
 
-![Photo of Mobile Bridge set up as Ship Bridge Simulator](images/MobileBridge.jpg | width=500)
+![Mobile Bridge](images/MobileBridge.jpg "Photo of Mobile Bridge set up as Ship Bridge Simulator")
 
 The Mobile Ship Bridge is a configurable ship’s bridge system in which new eNavigation technologies can be tested and demonstrated. In particular new interaction concepts are within the focus of the development. This includes both, the providing of information to nautical personal as well as new control concepts.
 The portable structure of the system allows a straightforward demonstration of these concepts in a real system environment, e.g. on real ship bridges as the system can be connected to the sensors on board of the ship in parallel with the real systems. An additional vision system supports the design, development and demonstration of these interaction concepts within a virtual environment.
