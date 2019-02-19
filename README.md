@@ -17,11 +17,11 @@ Combined the two components form a fully functional Ship Bridge Simulator using 
 ## Build Instructions
 
 - Per Bridge Element you will need the hardware listed in the [Bill of Materials](BOM.md), we recommend building 3 units
-- Use a lasercutter ([Settings](LasercutterConfig.md)) to cut the faceplates (([CAD files](CAD/)))
+- Use a lasercutter ([Settings](LasercutterConfig.md)) to cut the faceplates ([CAD files](CAD/))
 - Cut a 22 x 4 cm rectangular hole into the back of each flight case for the connectors
 - Cut a 1 cm diameter hole into the front right corner of the flight case for the power button
-- fix all components in the case as shown in the ([component placement overview](blueprints/placement.pdf))
-- wire up all components as shown in the ([component wiring overview](blueprints/wiring.pdf))
+- fix all components in the case as shown in the [component placement overview](blueprints/placement.pdf)
+- wire up all components as shown in the [component wiring diagram](blueprints/wiring.pdf)
 
 ## Academic Citation
 
